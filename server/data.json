@@ -1,0 +1,50 @@
+[
+  {
+    "id": "d66cdc5abbcb59df030f6068f32adb80",
+    "name": "Product 4",
+    "price": 400,
+    "stock": 10
+  },
+  {
+    "id": "19ec1a756b4497fd2e8da910727b7cef",
+    "name": "Product 3",
+    "price": 300,
+    "stock": 0
+  },
+  {
+    "id": "dc6783eb1a825134648be81e80f5585b",
+    "name": "Product 1",
+    "price": 320,
+    "stock": 10
+  },
+  {
+    "id": "b02341c4d57b118a91f37c483b81932b",
+    "name": "Product 2",
+    "price": 220,
+    "stock": 5
+  },
+  {
+    "id": "9c9e4d5f41dc05e90c8a38373d0baa36",
+    "name": "Product 3",
+    "price": 120,
+    "stock": 24
+  },
+  {
+    "id": "57daca3e90bc5b7ffbfee29338562111",
+    "name": "Product 1",
+    "price": 100,
+    "stock": 0
+  },
+  {
+    "id": "84f6b1b66996851b04f5c61ae797c7e6",
+    "name": "Product 2",
+    "price": 200,
+    "stock": 0
+  },
+  {
+    "id": "3bc11173c70cceb85ad3b8eb6d2fd3ab",
+    "name": "Product 3",
+    "price": 300,
+    "stock": 0
+  }
+]
